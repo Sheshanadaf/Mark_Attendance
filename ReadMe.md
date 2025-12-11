@@ -59,7 +59,7 @@ Track App is a mobile application built using **React Native (Expo)** and **Node
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Sheshanadaf/Mark_Attendance.git
 ```
 
 ### 2️⃣ Start the Backend
